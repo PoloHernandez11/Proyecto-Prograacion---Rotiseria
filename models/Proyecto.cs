@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Proyecto_Roticeria
 {
-    internal class Proryecto
+    public class Proryecto
     {
     }
 }

@@ -1,4 +1,4 @@
-﻿git using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -39,7 +39,7 @@ namespace Proyecto_Roticeria
             }
         }
 
-        // Aplicar un descuento en porcentaje (ej: 10 = 10%)
+        // Aplicar un descuento en porcentaje
         public void AplicarDescuento(double porcentaje)
         {
             if (porcentaje > 0 && porcentaje < 100)
@@ -69,6 +69,11 @@ namespace Proyecto_Roticeria
         public override string ToString()
         {
             return $"Producto: {_nombre} | Precio: ${_precio:F2}";
+        }
+
+        public void Mostrar()
+        {
+            Console.WriteLine($"Producto: {Nombre} - Precio: ${Precio}");
         }
     }
 }

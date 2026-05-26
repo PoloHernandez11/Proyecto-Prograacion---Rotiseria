@@ -6,15 +6,17 @@ using System.Threading.Tasks;
 
 namespace Proyecto_Roticeria
 {
-    public class Cajero : Empleado  
+    public class Cajero : Empleado
     {
-        public Cajero(string nombre, string apellido, int dni, string puesto,string turno, DateTime fechaIngreso, double salario)
+        public Cajero(string nombre, string apellido, int dni,
+                  string puesto, DateTime fechaIngreso, string turno, double salario)
         : base(nombre, apellido, dni, puesto, fechaIngreso, turno, salario)
-        {}
-
-        double CobrarPedido() 
         {
-            return Pedido.Total;
+        }
+
+        public double CobrarPedido(Pedido pedido)
+        {
+            return pedido.CalcularTotal();
         }
     }
 }

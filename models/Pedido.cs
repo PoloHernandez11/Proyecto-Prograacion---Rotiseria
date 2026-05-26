@@ -9,61 +9,58 @@ namespace Proyecto_Roticeria
 {
     public class Pedido
     {
-        public List<string> ListaProductos { get; set; }
+        private List<Producto> Productos { get; set; }
         public string Cliente { get; set; }
         public string Despacho { get; set; }
 
         public Pedido()
         {
-            ListaProductos = new List<string>();
+            Productos = new List<Producto>();
         }
 
-        // Agregar un producto a la lista
-        public void AgregarProducto(string producto)
+        public void AgregarProducto(Producto producto)
         {
-            ListaProductos.Add(producto);
+            Productos.Add(producto);
         }
 
-        // Eliminar un producto por nombre
-        public bool EliminarProducto(string producto)
+        public bool EliminarProducto(Producto producto)
         {
-            return ListaProductos.Remove(producto);
+            return Productos.Remove(producto);
         }
 
-        // Ver si un producto está en el pedido
-        public bool ContieneProducto(string producto)
+        public double CalcularTotal()
         {
-            return ListaProductos.Contains(producto);
+            double total = 0;
+            foreach (var producto in Productos)
+            {
+                total += producto.Precio;
+            }
+            return total;
         }
 
-        // Cantidad total de productos
-        public int CantidadProductos()
+        public void MostrarProductos()
         {
-            return ListaProductos.Count;
+            Console.WriteLine("---- Productos del pedido ----");
+            foreach (var producto in Productos)
+            {
+                producto.Mostrar();
+            }
+            Console.WriteLine($"Total: ${CalcularTotal()}");
         }
 
-        // Cambiar el estado de despacho
-        public void ActualizarDespacho(string nuevoEstado)
-        {
-            Despacho = nuevoEstado;
-        }
-
-        // Verificar si ya fue despachado
         public bool EstaDespachado()
         {
             return Despacho == "Despachado";
         }
 
-        // Limpiar todos los productos del pedido
-        public void VaciarPedido()
+        public void ActualizarDespacho(string nuevoEstado)
         {
-            ListaProductos.Clear();
+            Despacho = nuevoEstado;
         }
 
-        // Resumen del pedido en texto
         public override string ToString()
         {
-            return $"Cliente: {Cliente} | Despacho: {Despacho} | Productos: {CantidadProductos()}";
+            return $"Cliente: {Cliente} | Despacho: {Despacho} | Total: ${CalcularTotal()}";
         }
     }
 }

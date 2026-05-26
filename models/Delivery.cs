@@ -6,7 +6,19 @@ using System.Threading.Tasks;
 
 namespace Proyecto_Roticeria
 {
-    internal class Delivery
+    public class Delivery:Despacho
     {
+        public string Direccion { get; set; }
+
+        public Delivery(TimeSpan hora, double costo, string direccion)
+            : base(hora, costo)
+        {
+            this.Direccion = direccion;
+        }
+
+        public void EstadoPedido()
+        {
+            Console.WriteLine($"Entregando a: {Direccion}");
+        }
     }
 }

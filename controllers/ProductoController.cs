@@ -111,7 +111,7 @@ namespace Proyecto_Roticeria.controllers
                 return false;
             }
 
-            if (porcentaje >= 0)
+            if (porcentaje <= 0)
             {
                 return false;
             }

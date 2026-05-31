@@ -101,12 +101,16 @@ namespace Proyecto_Roticeria.views
             Console.ResetColor();
         }
 
-        public static void MostrarError(string mensaje)
+        public static void MostrarError(string mensaje, bool pausar = true)
         {
             Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine($"\n⚠️  {mensaje}");
+            Console.WriteLine($"\n>> {mensaje}");
             Console.ResetColor();
-            Console.ReadKey();
+
+            if (pausar)
+            {
+                Console.ReadKey(true);
+            }
         }
 
         public static void MostrarExito(string mensaje)

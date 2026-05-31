@@ -3,103 +3,103 @@
   "WorkspaceRootPath": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\views\\pedidoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:views\\pedidoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\views\\despachoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:views\\despachoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\views\\menuview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:views\\menuview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\views\\empleadoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:views\\empleadoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\views\\productoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:views\\productoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\views\\clienteview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:views\\clienteview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\views\\estilosconsola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:views\\estilosconsola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|d:\\facu\\segundo a\u00F1o t.d.s\\programaci\u00F3n ii\\tp programacion\\proyecto-prograacion---rotiseria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|d:\\facu\\segundo a\u00F1o t.d.s\\programaci\u00F3n ii\\tp programacion\\proyecto-prograacion---rotiseria\\views\\productoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:views\\productoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|d:\\facu\\segundo a\u00F1o t.d.s\\programaci\u00F3n ii\\tp programacion\\proyecto-prograacion---rotiseria\\views\\pedidoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:views\\pedidoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|d:\\facu\\segundo a\u00F1o t.d.s\\programaci\u00F3n ii\\tp programacion\\proyecto-prograacion---rotiseria\\views\\menuview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:views\\menuview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|d:\\facu\\segundo a\u00F1o t.d.s\\programaci\u00F3n ii\\tp programacion\\proyecto-prograacion---rotiseria\\views\\estilosconsola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:views\\estilosconsola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|d:\\facu\\segundo a\u00F1o t.d.s\\programaci\u00F3n ii\\tp programacion\\proyecto-prograacion---rotiseria\\views\\empleadoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:views\\empleadoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|d:\\facu\\segundo a\u00F1o t.d.s\\programaci\u00F3n ii\\tp programacion\\proyecto-prograacion---rotiseria\\views\\despachoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:views\\despachoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|d:\\facu\\segundo a\u00F1o t.d.s\\programaci\u00F3n ii\\tp programacion\\proyecto-prograacion---rotiseria\\views\\clienteview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:views\\clienteview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|d:\\facu\\segundo a\u00F1o t.d.s\\programaci\u00F3n ii\\tp programacion\\proyecto-prograacion---rotiseria\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|d:\\facu\\segundo a\u00F1o t.d.s\\programaci\u00F3n ii\\tp programacion\\proyecto-prograacion---rotiseria\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|d:\\facu\\segundo a\u00F1o t.d.s\\programaci\u00F3n ii\\tp programacion\\proyecto-prograacion---rotiseria\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|d:\\facu\\segundo a\u00F1o t.d.s\\programaci\u00F3n ii\\tp programacion\\proyecto-prograacion---rotiseria\\models\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\models\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:models\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|d:\\facu\\segundo a\u00F1o t.d.s\\programaci\u00F3n ii\\tp programacion\\proyecto-prograacion---rotiseria\\models\\retiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\models\\retiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:models\\retiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|d:\\facu\\segundo a\u00F1o t.d.s\\programaci\u00F3n ii\\tp programacion\\proyecto-prograacion---rotiseria\\models\\despacho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\models\\despacho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:models\\despacho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|d:\\facu\\segundo a\u00F1o t.d.s\\programaci\u00F3n ii\\tp programacion\\proyecto-prograacion---rotiseria\\controllers\\despachocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\controllers\\despachocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:controllers\\despachocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|d:\\facu\\segundo a\u00F1o t.d.s\\programaci\u00F3n ii\\tp programacion\\proyecto-prograacion---rotiseria\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|d:\\facu\\segundo a\u00F1o t.d.s\\programaci\u00F3n ii\\tp programacion\\proyecto-prograacion---rotiseria\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|d:\\facu\\segundo a\u00F1o t.d.s\\programaci\u00F3n ii\\tp programacion\\proyecto-prograacion---rotiseria\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|d:\\facu\\segundo a\u00F1o t.d.s\\programaci\u00F3n ii\\tp programacion\\proyecto-prograacion---rotiseria\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|d:\\facu\\segundo a\u00F1o t.d.s\\programaci\u00F3n ii\\tp programacion\\proyecto-prograacion---rotiseria\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|d:\\facu\\segundo a\u00F1o t.d.s\\programaci\u00F3n ii\\tp programacion\\proyecto-prograacion---rotiseria\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|d:\\facu\\segundo a\u00F1o t.d.s\\programaci\u00F3n ii\\tp programacion\\proyecto-prograacion---rotiseria\\models\\cocinero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\models\\cocinero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:models\\cocinero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|d:\\facu\\segundo a\u00F1o t.d.s\\programaci\u00F3n ii\\tp programacion\\proyecto-prograacion---rotiseria\\models\\repartidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\models\\repartidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:models\\repartidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|d:\\facu\\segundo a\u00F1o t.d.s\\programaci\u00F3n ii\\tp programacion\\proyecto-prograacion---rotiseria\\models\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\models\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:models\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|d:\\facu\\segundo a\u00F1o t.d.s\\programaci\u00F3n ii\\tp programacion\\proyecto-prograacion---rotiseria\\models\\limpieza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\models\\limpieza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:models\\limpieza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -114,104 +114,65 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ClienteView.cs",
-              "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\views\\ClienteView.cs",
-              "RelativeDocumentMoniker": "views\\ClienteView.cs",
-              "ToolTip": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\views\\ClienteView.cs",
-              "RelativeToolTip": "views\\ClienteView.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowE8AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-31T03:59:52.443Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PedidoController.cs",
-              "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\controllers\\PedidoController.cs",
-              "RelativeDocumentMoniker": "controllers\\PedidoController.cs",
-              "ToolTip": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\controllers\\PedidoController.cs",
-              "RelativeToolTip": "controllers\\PedidoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T21:40:54.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PedidoView.cs",
-              "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\views\\PedidoView.cs",
-              "RelativeDocumentMoniker": "views\\PedidoView.cs",
-              "ToolTip": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\views\\PedidoView.cs",
-              "RelativeToolTip": "views\\PedidoView.cs",
-              "ViewState": "AgIAAJcBAAAAAAAAAAAqwKwBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-31T04:00:23.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "ClienteController.cs",
               "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "controllers\\ClienteController.cs",
               "ToolTip": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\controllers\\ClienteController.cs",
               "RelativeToolTip": "controllers\\ClienteController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAmwGIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAkwFEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-30T21:40:28.515Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "EstilosConsola.cs",
               "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\views\\EstilosConsola.cs",
               "RelativeDocumentMoniker": "views\\EstilosConsola.cs",
               "ToolTip": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\views\\EstilosConsola.cs",
               "RelativeToolTip": "views\\EstilosConsola.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAqwEoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-31T04:48:08.619Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "DespachoView.cs",
               "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\views\\DespachoView.cs",
               "RelativeDocumentMoniker": "views\\DespachoView.cs",
               "ToolTip": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\views\\DespachoView.cs",
               "RelativeToolTip": "views\\DespachoView.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAAACgAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAALoAAAAAAAAAAAAAwGcBAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-31T04:00:40.002Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "EmpleadoView.cs",
               "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\views\\EmpleadoView.cs",
               "RelativeDocumentMoniker": "views\\EmpleadoView.cs",
               "ToolTip": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\views\\EmpleadoView.cs",
               "RelativeToolTip": "views\\EmpleadoView.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAFQAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAIwDcBAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-31T03:59:30.701Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "MenuView.cs",
               "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\views\\MenuView.cs",
               "RelativeDocumentMoniker": "views\\MenuView.cs",
               "ToolTip": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\views\\MenuView.cs",
               "RelativeToolTip": "views\\MenuView.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAiwD8AAABTAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwGQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-31T04:00:51.416Z",
               "EditorCaption": ""
@@ -226,25 +187,24 @@
               "RelativeToolTip": "models\\Retiro.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T22:13:25.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-30T22:13:25.513Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ProductoView.cs",
               "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\views\\ProductoView.cs",
               "RelativeDocumentMoniker": "views\\ProductoView.cs",
               "ToolTip": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\views\\ProductoView.cs",
               "RelativeToolTip": "views\\ProductoView.cs",
-              "ViewState": "AgIAAEkBAAAAAAAAAAAQwF4BAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAAwHMBAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-31T04:00:06.844Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -257,15 +217,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "ProductoController.cs",
               "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\controllers\\ProductoController.cs",
               "RelativeDocumentMoniker": "controllers\\ProductoController.cs",
               "ToolTip": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\controllers\\ProductoController.cs",
               "RelativeToolTip": "controllers\\ProductoController.cs",
-              "ViewState": "AgIAAMQAAAAAAAAAAAA1wKEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAmwGMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-30T21:34:50.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClienteView.cs",
+              "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\views\\ClienteView.cs",
+              "RelativeDocumentMoniker": "views\\ClienteView.cs",
+              "ToolTip": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\views\\ClienteView.cs",
+              "RelativeToolTip": "views\\ClienteView.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAqwKYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T03:59:52.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PedidoView.cs",
+              "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\views\\PedidoView.cs",
+              "RelativeDocumentMoniker": "views\\PedidoView.cs",
+              "ToolTip": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\views\\PedidoView.cs",
+              "RelativeToolTip": "views\\PedidoView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T04:00:23.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "controllers\\PedidoController.cs",
+              "ToolTip": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\controllers\\PedidoController.cs",
+              "RelativeToolTip": "controllers\\PedidoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T21:40:54.101Z",
               "EditorCaption": ""
             },
             {
@@ -278,8 +277,7 @@
               "RelativeToolTip": "models\\Delivery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T22:10:49.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-30T22:10:49.212Z"
             },
             {
               "$type": "Document",
@@ -291,8 +289,7 @@
               "RelativeToolTip": "models\\Despacho.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T22:11:04.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-30T22:11:04.322Z"
             },
             {
               "$type": "Document",
@@ -304,8 +301,7 @@
               "RelativeToolTip": "controllers\\DespachoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAJsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T21:41:06.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-30T21:41:06.365Z"
             },
             {
               "$type": "Document",
@@ -317,8 +313,7 @@
               "RelativeToolTip": "controllers\\EmpleadoController.cs",
               "ViewState": "AgIAALMAAAAAAAAAAAAswOAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T21:40:40.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-30T21:40:40.189Z"
             },
             {
               "$type": "Document",
@@ -330,8 +325,7 @@
               "RelativeToolTip": "models\\Cliente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T22:10:16.822Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-30T22:10:16.822Z"
             },
             {
               "$type": "Document",
@@ -343,8 +337,7 @@
               "RelativeToolTip": "models\\Empleado.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T22:07:13.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-30T22:07:13.961Z"
             },
             {
               "$type": "Document",
@@ -356,8 +349,7 @@
               "RelativeToolTip": "models\\Pedido.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T22:11:36.228Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-30T22:11:36.228Z"
             },
             {
               "$type": "Document",
@@ -369,8 +361,7 @@
               "RelativeToolTip": "models\\Cocinero.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T22:10:36.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-30T22:10:36.696Z"
             },
             {
               "$type": "Document",
@@ -382,8 +373,7 @@
               "RelativeToolTip": "models\\Persona.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T22:12:06.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-30T22:12:06.119Z"
             },
             {
               "$type": "Document",
@@ -395,8 +385,7 @@
               "RelativeToolTip": "models\\Producto.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAIwBIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T22:12:35.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-30T22:12:35.824Z"
             },
             {
               "$type": "Document",
@@ -408,8 +397,7 @@
               "RelativeToolTip": "models\\Proyecto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T22:13:07.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-30T22:13:07.042Z"
             },
             {
               "$type": "Document",
@@ -421,8 +409,7 @@
               "RelativeToolTip": "models\\Repartidor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T22:13:14.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-30T22:13:14.182Z"
             },
             {
               "$type": "Document",
@@ -434,8 +421,7 @@
               "RelativeToolTip": "models\\Limpieza.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T22:11:23.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-30T22:11:23.978Z"
             }
           ]
         }

@@ -65,29 +65,14 @@ namespace Proyecto_Roticeria.controllers
             return true;
         }
 
-        public List<Cliente> BuscarClientePorNombre(string nombre)
+        public List<Cliente> BuscarCliente(string texto)
         {
             List<Cliente> clientesEncontrados = new List<Cliente>();
 
             foreach (Cliente cliente in clientes)
             {
-                if (cliente.Nombre.ToLower().Contains(nombre.ToLower()))
-                {
-                    clientesEncontrados.Add(cliente);
-                }
-
-            }
-
-            return clientesEncontrados;
-        }
-
-        public List<Cliente> BuscarClientePorApellido(string apellido)
-        {
-            List<Cliente> clientesEncontrados = new List<Cliente>();
-
-            foreach (Cliente cliente in clientes)
-            {
-                if (cliente.Apellido.ToLower().Contains(apellido.ToLower()))
+                if (cliente.Nombre.ToLower().Contains(texto.ToLower()) ||
+                    cliente.Apellido.ToLower().Contains(texto.ToLower()))
                 {
                     clientesEncontrados.Add(cliente);
                 }

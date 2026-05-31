@@ -233,6 +233,8 @@ namespace Proyecto_Roticeria.views
             {
                 MostrarDatosEmpleado(empleado);
             }
+
+            EstilosConsola.Pausar();
         }
 
         private void BuscarEmpleadoPorDni()
@@ -295,6 +297,8 @@ namespace Proyecto_Roticeria.views
             {
                 MostrarDatosEmpleado(empleado);
             }
+
+            EstilosConsola.Pausar();
         }
 
         private void CalcularTotalSalarios()
@@ -304,6 +308,8 @@ namespace Proyecto_Roticeria.views
             double total = empleadoController.CalcularTotalSalarios();
 
             Console.WriteLine($"Total a pagar en salarios: ${total}");
+
+            EstilosConsola.Pausar();
         }
 
         private void MostrarDatosEmpleado(Empleado empleado)

@@ -36,7 +36,7 @@ namespace Proyecto_Roticeria.views
                 "6. Calcular total de pedido",
                 "7. Actualizar estado de despacho",
                 "8. Eliminar pedido",
-                "9. Calcular total de todos los pedidos",
+                "9. Recaudacion del dia",
                 "0. Volver"
                 };
 
@@ -370,7 +370,7 @@ namespace Proyecto_Roticeria.views
 
         private void CalcularTotalTodosLosPedidos()
         {
-            EstilosConsola.MostrarEncabezado("TOTAL DE TODOS LOS PEDIDOS");
+            EstilosConsola.MostrarEncabezado("RECAUDACION DEL DIA");
 
             double total = pedidoController.CalcularTotalDeTodosLosPedidos();
 

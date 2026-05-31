@@ -323,7 +323,7 @@ namespace Proyecto_Roticeria.views
 
             while (!int.TryParse(Console.ReadLine(), out numero))
             {
-                EstilosConsola.MostrarError("Dato inválido. Ingrese solo números.");
+                EstilosConsola.MostrarError("Dato inválido. Ingrese solo números.", false);
                 Console.Write(mensaje);
             }
 
@@ -338,7 +338,7 @@ namespace Proyecto_Roticeria.views
 
             while (!double.TryParse(Console.ReadLine(), out numero))
             {
-                EstilosConsola.MostrarError("Dato inválido. Ingrese un número válido.");
+                EstilosConsola.MostrarError("Dato inválido. Ingrese un número válido.", false);
                 Console.Write(mensaje);
             }
 
@@ -353,7 +353,7 @@ namespace Proyecto_Roticeria.views
 
             while (!TimeSpan.TryParse(Console.ReadLine(), out hora))
             {
-                EstilosConsola.MostrarError("Hora inválida. Use formato hh:mm. Ejemplo: 21:30");
+                EstilosConsola.MostrarError("Hora inválida. Use formato hh:mm. Ejemplo: 21:30", false);
                 Console.Write(mensaje);
             }
 

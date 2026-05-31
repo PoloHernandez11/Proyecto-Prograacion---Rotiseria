@@ -24,23 +24,19 @@ namespace Proyecto_Roticeria.views
             {
                 string[] opciones =
                 {
-                    "1. Agregar producto",
-                    "2. Listar productos",
-                    "3. Buscar producto por nombre exacto",
-                    "4. Buscar productos por coincidencia",
-                    "5. Eliminar producto",
-                    "6. Aplicar descuento",
-                    "7. Aumentar precio",
-                    "8. Mostrar producto más barato",
-                    "9. Mostrar producto más caro",
-                    "10. Ordenar productos por precio",
-                    "11. Calcular total de productos",
-                    "0. Volver"
+                "1. Agregar producto",
+                "2. Listar productos",
+                "3. Buscar producto",
+                "4. Eliminar producto",
+                "5. Cambiar precio",
+                "6. Mostrar producto más barato",
+                "7. Mostrar producto más caro",
+                "8. Ordenar productos por precio",
+                "9. Calcular total de productos",
+                "0. Volver"
                 };
 
                 opcion = EstilosConsola.MostrarMenu("MENÚ PRODUCTOS", opciones);
-
-                Console.WriteLine();
 
                 switch (opcion)
                 {
@@ -53,38 +49,30 @@ namespace Proyecto_Roticeria.views
                         break;
 
                     case 3:
-                        BuscarProductoPorNombre();
+                        BuscarProducto();
                         break;
 
                     case 4:
-                        BuscarProductosPorCoincidencia();
-                        break;
-
-                    case 5:
                         EliminarProducto();
                         break;
 
+                    case 5:
+                        CambiarPrecio();
+                        break;
+
                     case 6:
-                        AplicarDescuento();
-                        break;
-
-                    case 7:
-                        AumentarPrecio();
-                        break;
-
-                    case 8:
                         MostrarProductoMasBarato();
                         break;
 
-                    case 9:
+                    case 7:
                         MostrarProductoMasCaro();
                         break;
 
-                    case 10:
+                    case 8:
                         OrdenarProductosPorPrecio();
                         break;
 
-                    case 11:
+                    case 9:
                         CalcularTotalProductos();
                         break;
 
@@ -96,6 +84,7 @@ namespace Proyecto_Roticeria.views
                         EstilosConsola.MostrarError("Opción inválida.");
                         break;
                 }
+
             } while (opcion != 0);
         }
 
@@ -138,36 +127,17 @@ namespace Proyecto_Roticeria.views
             EstilosConsola.Pausar();
         }
 
-        private void BuscarProductoPorNombre()
-        {
-            EstilosConsola.MostrarEncabezado("BUSCAR PRODUCTO POR NOMBRE EXACTO");
-
-            string nombre = LeerTexto("Ingrese nombre exacto del producto: ");
-
-            Producto producto = productoController.BuscarProductoPorNombre(nombre);
-
-            if (producto == null)
+        private void BuscarProducto()
             {
-                EstilosConsola.MostrarError("No se encontró un producto con ese nombre.");
-            }
-            else
-            {
-                MostrarDatosProducto(producto);
-                EstilosConsola.Pausar();
-            }
-        }
+            EstilosConsola.MostrarEncabezado("BUSCAR PRODUCTO");
 
-        private void BuscarProductosPorCoincidencia()
-        {
-            EstilosConsola.MostrarEncabezado("BUSCAR PRODUCTOS POR COINCIDENCIA");
-
-            string nombre = LeerTexto("Ingrese parte del nombre del producto: ");
+            string nombre = LeerTexto("Ingrese nombre o parte del nombre del producto: ");
 
             List<Producto> productosEncontrados = productoController.BuscarProductosPorNombre(nombre);
 
             if (productosEncontrados.Count == 0)
             {
-                EstilosConsola.MostrarError("No se encontraron productos.");
+                EstilosConsola.MostrarError("No se encontraron productos con ese nombre.");
                 return;
             }
 
@@ -197,41 +167,72 @@ namespace Proyecto_Roticeria.views
             }
         }
 
-        private void AplicarDescuento()
+        private void CambiarPrecio()
         {
-            EstilosConsola.MostrarEncabezado("APLICAR DESCUENTO");
+            EstilosConsola.MostrarEncabezado("CAMBIAR PRECIO");
 
             string nombre = LeerTexto("Ingrese nombre exacto del producto: ");
-            double porcentaje = LeerDouble("Porcentaje de descuento: ");
 
-            bool aplicado = productoController.AplicarDescuento(nombre, porcentaje);
+            Producto producto = productoController.BuscarProductoPorNombre(nombre);
 
-            if (aplicado)
+            if (producto == null)
             {
-                EstilosConsola.MostrarExito("Descuento aplicado correctamente.");
+                EstilosConsola.MostrarError("No se encontró un producto con ese nombre.");
+                return;
             }
-            else
+
+            Console.WriteLine("Producto encontrado:");
+            MostrarDatosProducto(producto);
+
+            Console.WriteLine("Seleccione el tipo de cambio:");
+            Console.WriteLine("1. Aplicar descuento");
+            Console.WriteLine("2. Aumentar precio");
+            Console.WriteLine("0. Cancelar");
+
+            int opcion = LeerEntero("Opción: ");
+
+            if (opcion == 0)
             {
-                EstilosConsola.MostrarError("No se pudo aplicar el descuento. Verifique el nombre o el porcentaje.");
+                Console.WriteLine("Operación cancelada.");
+                EstilosConsola.Pausar();
+                return;
             }
-        }
 
-        private void AumentarPrecio()
-        {
-            EstilosConsola.MostrarEncabezado("AUMENTAR PRECIO");
+            double porcentaje = LeerDouble("Ingrese porcentaje: ");
 
-            string nombre = LeerTexto("Ingrese nombre exacto del producto: ");
-            double porcentaje = LeerDouble("Porcentaje de aumento: ");
+            bool resultado = false;
 
-            bool aumentado = productoController.AumentarPrecio(nombre, porcentaje);
-
-            if (aumentado)
+            switch (opcion)
             {
-                EstilosConsola.MostrarExito("Precio aumentado correctamente.");
-            }
-            else
-            {
-                EstilosConsola.MostrarError("No se pudo aumentar el precio. Verifique el nombre o el porcentaje.");
+                case 1:
+                    resultado = productoController.AplicarDescuento(nombre, porcentaje);
+
+                    if (resultado)
+                    {
+                        EstilosConsola.MostrarExito("Descuento aplicado correctamente.");
+                    }
+                    else
+                    {
+                        EstilosConsola.MostrarError("No se pudo aplicar el descuento. Verifique el porcentaje.");
+                    }
+                    break;
+
+                case 2:
+                    resultado = productoController.AumentarPrecio(nombre, porcentaje);
+
+                    if (resultado)
+                    {
+                        EstilosConsola.MostrarExito("Precio aumentado correctamente.");
+                    }
+                    else
+                    {
+                        EstilosConsola.MostrarError("No se pudo aumentar el precio. Verifique el porcentaje.");
+                    }
+                    break;
+
+                default:
+                    EstilosConsola.MostrarError("Opción inválida.");
+                    break;
             }
         }
 
@@ -349,6 +350,21 @@ namespace Proyecto_Roticeria.views
                 Console.WriteLine("Dato inválido. Ingrese un número válido.");
                 Console.ResetColor();
 
+                Console.Write(mensaje);
+            }
+
+            return numero;
+        }
+
+        private int LeerEntero(string mensaje)
+        {
+            int numero;
+
+            Console.Write(mensaje);
+
+            while (!int.TryParse(Console.ReadLine(), out numero))
+            {
+                EstilosConsola.MostrarError("Dato inválido. Ingrese solo números.", false);
                 Console.Write(mensaje);
             }
 

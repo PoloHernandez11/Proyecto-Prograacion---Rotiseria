@@ -24,13 +24,12 @@ namespace Proyecto_Roticeria.views
             {
                 string[] opciones =
                 {
-                    "1. Agregar cliente",
-                    "2. Listar clientes",
-                    "3. Buscar cliente por DNI",
-                    "4. Buscar cliente por nombre",
-                    "5. Buscar cliente por apellido",
-                    "6. Eliminar cliente",
-                    "0. Volver"
+                "1. Agregar cliente",
+                "2. Listar clientes",
+                "3. Buscar cliente por DNI",
+                "4. Buscar cliente",
+                "5. Eliminar cliente",
+                "0. Volver"
                 };
 
                 opcion = EstilosConsola.MostrarMenu("MENÚ CLIENTES", opciones);
@@ -50,14 +49,10 @@ namespace Proyecto_Roticeria.views
                         break;
 
                     case 4:
-                        BuscarClientePorNombre();
+                        BuscarCliente();
                         break;
 
                     case 5:
-                        BuscarClientePorApellido();
-                        break;
-
-                    case 6:
                         EliminarCliente();
                         break;
 
@@ -69,8 +64,6 @@ namespace Proyecto_Roticeria.views
                         EstilosConsola.MostrarError("Opción inválida.");
                         break;
                 }
-
-                Console.WriteLine();
 
             } while (opcion != 0);
         }
@@ -150,18 +143,18 @@ namespace Proyecto_Roticeria.views
             }
         }
 
-        private void BuscarClientePorNombre()
+        private void BuscarCliente()
         {
-            EstilosConsola.MostrarEncabezado("BUSCAR CLIENTE POR NOMBRE");
+            EstilosConsola.MostrarEncabezado("BUSCAR CLIENTE");
 
-            Console.Write("Ingrese nombre: ");
-            string nombre = Console.ReadLine();
+            Console.Write("Ingrese nombre o apellido: ");
+            string texto = Console.ReadLine();
 
-            List<Cliente> clientesEncontrados = clienteController.BuscarClientePorNombre(nombre);
+            List<Cliente> clientesEncontrados = clienteController.BuscarCliente(texto);
 
             if (clientesEncontrados.Count == 0)
             {
-                EstilosConsola.MostrarError("No se encontraron clientes con ese nombre.");
+                EstilosConsola.MostrarError("No se encontraron clientes con ese nombre o apellido.");
                 return;
             }
 
@@ -169,31 +162,8 @@ namespace Proyecto_Roticeria.views
             {
                 MostrarDatosCliente(cliente);
             }
-            Console.WriteLine("\nPresione una tecla para volver...");
-            Console.ReadKey();
-        }
 
-        private void BuscarClientePorApellido()
-        {
-            EstilosConsola.MostrarEncabezado("BUSCAR CLIENTE POR APELLIDO");
-
-            Console.Write("Ingrese apellido: ");
-            string apellido = Console.ReadLine();
-
-            List<Cliente> clientesEncontrados = clienteController.BuscarClientePorApellido(apellido);
-
-            if (clientesEncontrados.Count == 0)
-            {
-                EstilosConsola.MostrarError("No se encontraron clientes con ese apellido.");
-                return;
-            }
-
-            foreach (Cliente cliente in clientesEncontrados)
-            {
-                MostrarDatosCliente(cliente);
-            }
-            Console.WriteLine("\nPresione una tecla para volver...");
-            Console.ReadKey();
+            EstilosConsola.Pausar();
         }
 
         private void EliminarCliente()

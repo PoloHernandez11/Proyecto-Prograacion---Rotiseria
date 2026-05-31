@@ -8,8 +8,8 @@ namespace Proyecto_Roticeria
 {
     public class Cliente : Persona
     {
-        private string Direccion { get; set; }
-        private int Telefono { get; set; }
+        public string Direccion { get; private set; }
+        public int Telefono { get; private set; }
 
 
         public Cliente(string nombre, string apellido, int dni, string direccion, int telefono)

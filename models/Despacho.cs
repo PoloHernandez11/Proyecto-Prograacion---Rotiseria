@@ -8,8 +8,8 @@ namespace Proyecto_Roticeria
 {
     public class Despacho
     {
-        private TimeSpan Hora { get; set; }
-        private double Costo { get; set; }
+        public TimeSpan Hora { get; private set; }
+        public double Costo { get; private set; }
 
         public Despacho(TimeSpan hora, double costo)
         {

@@ -8,7 +8,7 @@ namespace Proyecto_Roticeria
 {
     public class Cocinero : Empleado
     {
-        private string Especialidad { get; set; }
+        public string Especialidad { get; private set; }
 
         public Cocinero(string nombre, string apellido, int dni,
                         string puesto, DateTime fechaIngreso, string turno, double salario,

@@ -8,10 +8,10 @@ namespace Proyecto_Roticeria
 {
     public class Empleado : Persona
     {
-        private string Puesto { get; set; }
-        private DateTime FechaIngreso { get; set; }  // corregido el typo
-        private string Turno { get; set; }
-        private double Salario { get; set; }
+        public string Puesto { get; private set; }
+        public DateTime FechaIngreso { get; private set; }  // corregido el typo
+        public string Turno { get; private set; }
+        public double Salario { get; private set; }
 
         public Empleado(string nombre, string apellido, int dni,
                         string puesto, DateTime fechaIngreso, string turno, double salario)  // DateTime en vez de string

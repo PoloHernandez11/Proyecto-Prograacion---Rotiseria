@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="controllers\ClienteController.cs" />
+    <Compile Include="controllers\DespachoController.cs" />
+    <Compile Include="controllers\EmpleadoController.cs" />
+    <Compile Include="controllers\PedidoController.cs" />
+    <Compile Include="controllers\ProductoController.cs" />
     <Compile Include="models\Cajero.cs" />
     <Compile Include="models\Cliente.cs" />
     <Compile Include="models\Cocinero.cs" />
@@ -58,14 +63,19 @@
     <Compile Include="models\Proyecto.cs" />
     <Compile Include="models\Repartidor.cs" />
     <Compile Include="models\Retiro.cs" />
+    <Compile Include="views\ClienteView.cs" />
+    <Compile Include="views\DespachoView.cs" />
+    <Compile Include="views\EmpleadoView.cs" />
+    <Compile Include="views\EstilosConsola.cs" />
+    <Compile Include="views\MenuView.cs" />
+    <Compile Include="views\PedidoView.cs" />
+    <Compile Include="views\ProductoView.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="controllers\" />
     <Folder Include="obj\" />
-    <Folder Include="views\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

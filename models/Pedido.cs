@@ -9,13 +9,15 @@ namespace Proyecto_Roticeria
 {
     public class Pedido
     {
-        private List<Producto> Productos { get; set; }
-        public string Cliente { get; set; }
-        public string Despacho { get; set; }
+        public List<Producto> Productos { get; private set; }
+        public string Cliente { get; private set; }
+        public string Despacho { get; private set; }
 
-        public Pedido()
+        public Pedido(string cliente, string despacho)
         {
             Productos = new List<Producto>();
+            Cliente = cliente;
+            Despacho = despacho;
         }
 
         public void AgregarProducto(Producto producto)

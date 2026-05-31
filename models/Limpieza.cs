@@ -8,7 +8,7 @@ namespace Proyecto_Roticeria
 {
     public class Limpieza : Empleado
     {
-        private string Sector { get; set; }
+        public string Sector { get; private set; }
 
         public Limpieza(string nombre, string apellido, int dni,
                         string puesto, DateTime fechaIngreso, string turno, double salario,

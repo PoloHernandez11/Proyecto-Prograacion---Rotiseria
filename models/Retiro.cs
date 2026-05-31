@@ -8,7 +8,7 @@ namespace Proyecto_Roticeria
 {
     public class Retiro: Despacho
     {
-        private string TipoDespacho { get; set; }
+        public string TipoDespacho { get; private set; }
 
         public Retiro(TimeSpan hora, double costo, string tipoDespacho)
             : base(hora, costo)

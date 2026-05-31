@@ -8,9 +8,9 @@ namespace Proyecto_Roticeria
 {
     public class Persona
     {
-        private string Nombre { get; set; }
-        private string Apellido { get; set; }
-        private int Dni { get; set; }
+        public string Nombre { get; private set; }
+        public string Apellido { get; private set; }
+        public int Dni { get; private set; }
 
 
         public Persona(string nombre, string apellido, int dni)
@@ -20,7 +20,7 @@ namespace Proyecto_Roticeria
             this.Dni = dni;
         }
 
-        public void presentarse() 
+        public void Presentarse() 
         {
             Console.WriteLine($"Hola, mi nombre es {Nombre} {Apellido} y mi DNI es {Dni}.");
         }   

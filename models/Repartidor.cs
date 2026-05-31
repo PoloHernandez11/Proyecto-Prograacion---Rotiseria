@@ -8,7 +8,7 @@ namespace Proyecto_Roticeria
 {
     public class Repartidor : Empleado
     {
-        private string Vehiculo { get; set; }
+        public string Vehiculo { get; private set; }
 
         public Repartidor(string nombre, string apellido, int dni,
                           string puesto, DateTime fechaIngreso, string turno, double salario,

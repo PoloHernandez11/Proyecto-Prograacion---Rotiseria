@@ -1,0 +1,7 @@
+D:\Facu\Segundo Año T.D.S\Programación II\Tp programacion\Proyecto-Prograacion---Rotiseria\bin\Debug\Proyecto Roticeria.exe.config
+D:\Facu\Segundo Año T.D.S\Programación II\Tp programacion\Proyecto-Prograacion---Rotiseria\bin\Debug\Proyecto Roticeria.exe
+D:\Facu\Segundo Año T.D.S\Programación II\Tp programacion\Proyecto-Prograacion---Rotiseria\bin\Debug\Proyecto Roticeria.pdb
+D:\Facu\Segundo Año T.D.S\Programación II\Tp programacion\Proyecto-Prograacion---Rotiseria\obj\Debug\Proyecto Roticeria.csproj.AssemblyReference.cache
+D:\Facu\Segundo Año T.D.S\Programación II\Tp programacion\Proyecto-Prograacion---Rotiseria\obj\Debug\Proyecto Roticeria.csproj.CoreCompileInputs.cache
+D:\Facu\Segundo Año T.D.S\Programación II\Tp programacion\Proyecto-Prograacion---Rotiseria\obj\Debug\Proyecto Roticeria.exe
+D:\Facu\Segundo Año T.D.S\Programación II\Tp programacion\Proyecto-Prograacion---Rotiseria\obj\Debug\Proyecto Roticeria.pdb

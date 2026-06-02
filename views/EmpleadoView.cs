@@ -315,30 +315,7 @@ namespace Proyecto_Roticeria.views
         private void MostrarDatosEmpleado(Empleado empleado)
         {
             Console.WriteLine("------------------------------");
-            Console.WriteLine($"Nombre: {empleado.Nombre}");
-            Console.WriteLine($"Apellido: {empleado.Apellido}");
-            Console.WriteLine($"DNI: {empleado.Dni}");
-            Console.WriteLine($"Puesto: {empleado.Puesto}");
-            Console.WriteLine($"Fecha de ingreso: {empleado.FechaIngreso:dd/MM/yyyy}");
-            Console.WriteLine($"Turno: {empleado.Turno}");
-            Console.WriteLine($"Salario: ${empleado.Salario}");
-
-            if (empleado is Cocinero)
-            {
-                Cocinero cocinero = (Cocinero)empleado;
-                Console.WriteLine($"Especialidad: {cocinero.Especialidad}");
-            }
-            else if (empleado is Repartidor)
-            {
-                Repartidor repartidor = (Repartidor)empleado;
-                Console.WriteLine($"Vehículo: {repartidor.Vehiculo}");
-            }
-            else if (empleado is Limpieza)
-            {
-                Limpieza limpieza = (Limpieza)empleado;
-                Console.WriteLine($"Sector: {limpieza.Sector}");
-            }
-
+            Console.WriteLine(empleado.ToString());
             Console.WriteLine("------------------------------");
         }
 

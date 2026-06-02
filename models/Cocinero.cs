@@ -18,10 +18,13 @@ namespace Proyecto_Roticeria
             this.Especialidad = especialidad;
         }
 
-        public void PrepararPedido(Pedido pedido)
+        public string PrepararPedido(Pedido pedido)
         {
-            Console.WriteLine($"El cocinero especialista en {Especialidad} está preparando el pedido:");
-            pedido.MostrarProductos();
+            return $"El cocinero especialista en {Especialidad} está preparando el pedido: {pedido}";
+        }
+        public override string ToString()
+        {
+            return $"{base.ToString()} | Especialidad: {Especialidad}";
         }
     }
 }

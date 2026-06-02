@@ -23,9 +23,9 @@ namespace Proyecto_Roticeria
             this.Salario = salario;
         }
 
-        public void MostrarRol()
+        public override string ToString()
         {
-            Console.WriteLine($"Puesto: {Puesto} | Turno: {Turno} | Ingreso: {FechaIngreso:dd/MM/yyyy} | Salario: {Salario}");
+            return $"{base.ToString()} | Puesto: {Puesto} | Turno: {Turno} | Ingreso: {FechaIngreso:dd/MM/yyyy} | Salario: ${Salario:F2}";
         }
 
     }

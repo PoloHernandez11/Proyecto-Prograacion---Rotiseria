@@ -18,9 +18,14 @@ namespace Proyecto_Roticeria
             this.Sector = sector;
         }
 
-        public void LimpiarSector()
+        public string LimpiarSector()
         {
-            Console.WriteLine($"Limpiando el sector: {Sector}");
+            return $"El empleado de limpieza {Nombre} {Apellido} está limpiando el sector: {Sector}";
+        }
+
+        public override string ToString()
+        {
+            return $"{base.ToString()} | Sector: {Sector}";
         }
     }
 }

@@ -16,10 +16,9 @@ namespace Proyecto_Roticeria
             this.TipoDespacho = tipoDespacho;
         }
 
-        public void EstadoPedido(Pedido pedido)
+        public override string ObtenerDescripcion()
         {
-            Console.WriteLine($"Retiro en local | Tipo: {TipoDespacho}");
-            pedido.MostrarProductos();
+            return $"Retiro en local | Tipo: {TipoDespacho} | Hora: {Hora} | Costo: ${Costo}";
         }
     }
 }

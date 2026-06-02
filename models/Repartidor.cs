@@ -18,10 +18,14 @@ namespace Proyecto_Roticeria
             this.Vehiculo = vehiculo;
         }
 
-        public void RealizarDelivery(Delivery delivery)
+        public string EntregarPedido(Pedido pedido)
         {
-            Console.WriteLine($"Repartidor en {Vehiculo} realizando entrega:");
-            delivery.EstadoPedido();
+            return $"El repartidor {Nombre} {Apellido} está entregando el pedido en vehículo: {Vehiculo}. Pedido: {pedido}";
+        }
+
+        public override string ToString()
+        {
+            return $"{base.ToString()} | Vehículo: {Vehiculo}";
         }
     }
 }

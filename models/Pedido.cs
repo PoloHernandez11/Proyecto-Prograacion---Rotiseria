@@ -40,16 +40,6 @@ namespace Proyecto_Roticeria
             return total;
         }
 
-        public void MostrarProductos()
-        {
-            Console.WriteLine("---- Productos del pedido ----");
-            foreach (var producto in Productos)
-            {
-                producto.Mostrar();
-            }
-            Console.WriteLine($"Total: ${CalcularTotal()}");
-        }
-
         public bool EstaDespachado()
         {
             return Despacho == "Despachado";

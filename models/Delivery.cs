@@ -16,9 +16,9 @@ namespace Proyecto_Roticeria
             this.Direccion = direccion;
         }
 
-        public void EstadoPedido()
+        public override string ObtenerDescripcion()
         {
-            Console.WriteLine($"Entregando a: {Direccion}");
+            return $"Delivery a domicilio | Dirección: {Direccion} | Hora: {Hora} | Costo: ${Costo}";
         }
     }
 }

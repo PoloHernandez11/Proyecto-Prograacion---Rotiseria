@@ -206,7 +206,7 @@ namespace Proyecto_Roticeria.views
                 return;
             }
 
-            pedido.MostrarProductos();
+            pedido.ToString();
 
             Console.Write("Ingrese nombre exacto del producto a eliminar: ");
             string nombreProducto = Console.ReadLine();
@@ -392,7 +392,7 @@ namespace Proyecto_Roticeria.views
             Console.WriteLine($"Despacho: {pedido.Despacho}");
             Console.WriteLine($"Total: ${pedido.CalcularTotal()}");
             Console.WriteLine("Productos:");
-            pedido.MostrarProductos();
+            Console.WriteLine(pedido.ToString());
 
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("------------------------------");

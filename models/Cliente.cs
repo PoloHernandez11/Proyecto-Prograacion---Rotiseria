@@ -19,6 +19,9 @@ namespace Proyecto_Roticeria
             this.Direccion = direccion;
         }
 
-
+        public override string ToString()
+        {
+            return $"{base.ToString()} | Dirección: {Direccion} | Teléfono: {Telefono}";
+        }
     }
 }

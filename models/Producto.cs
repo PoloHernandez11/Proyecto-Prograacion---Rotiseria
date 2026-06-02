@@ -70,10 +70,5 @@ namespace Proyecto_Roticeria
         {
             return $"Producto: {_nombre} | Precio: ${_precio:F2}";
         }
-
-        public void Mostrar()
-        {
-            Console.WriteLine($"Producto: {Nombre} - Precio: ${Precio}");
-        }
     }
 }

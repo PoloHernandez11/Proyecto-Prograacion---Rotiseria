@@ -19,12 +19,9 @@ namespace Proyecto_Roticeria
             this.Apellido = apellido;
             this.Dni = dni;
         }
-
-        public void Presentarse() 
+        public override string ToString()
         {
-            Console.WriteLine($"Hola, mi nombre es {Nombre} {Apellido} y mi DNI es {Dni}.");
-        }   
-
-
+            return $"{Nombre} {Apellido} | DNI: {Dni}";
+        }
     }
 }

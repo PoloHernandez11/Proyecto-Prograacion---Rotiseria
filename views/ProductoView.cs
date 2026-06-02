@@ -309,8 +309,7 @@ namespace Proyecto_Roticeria.views
             Console.WriteLine("------------------------------");
             Console.ResetColor();
 
-            Console.WriteLine($"Nombre: {producto.Nombre}");
-            Console.WriteLine($"Precio: ${producto.Precio}");
+            Console.WriteLine(producto.ToString());
 
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("------------------------------");

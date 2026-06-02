@@ -298,20 +298,7 @@ namespace Proyecto_Roticeria.views
             Console.WriteLine($"N° despacho: {numero}");
             Console.WriteLine($"Hora: {despacho.Hora}");
             Console.WriteLine($"Costo: ${despacho.Costo}");
-
-            if (despacho is Delivery)
-            {
-                Delivery delivery = (Delivery)despacho;
-                Console.WriteLine("Tipo: Delivery");
-                Console.WriteLine($"Dirección: {delivery.Direccion}");
-            }
-            else if (despacho is Retiro)
-            {
-                Retiro retiro = (Retiro)despacho;
-                Console.WriteLine("Tipo: Retiro en local");
-                Console.WriteLine($"Tipo despacho: {retiro.TipoDespacho}");
-            }
-
+            Console.WriteLine(despacho.ObtenerDescripcion());
             Console.WriteLine("------------------------------");
         }
 

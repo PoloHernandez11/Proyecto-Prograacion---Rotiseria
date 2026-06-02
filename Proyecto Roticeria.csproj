@@ -48,6 +48,7 @@
     <Compile Include="controllers\EmpleadoController.cs" />
     <Compile Include="controllers\PedidoController.cs" />
     <Compile Include="controllers\ProductoController.cs" />
+    <Compile Include="DatosIniciales.cs" />
     <Compile Include="models\Cajero.cs" />
     <Compile Include="models\Cliente.cs" />
     <Compile Include="models\Cocinero.cs" />

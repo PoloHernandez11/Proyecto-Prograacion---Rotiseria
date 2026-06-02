@@ -189,16 +189,11 @@ namespace Proyecto_Roticeria.views
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("------------------------------");
             Console.ResetColor();
-
-            Console.WriteLine($"Nombre: {cliente.Nombre}");
-            Console.WriteLine($"Apellido: {cliente.Apellido}");
-            Console.WriteLine($"DNI: {cliente.Dni}");
-            Console.WriteLine($"Dirección: {cliente.Direccion}");
-            Console.WriteLine($"Teléfono: {cliente.Telefono}");
-
+            Console.WriteLine(cliente.ToString());
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("------------------------------");
             Console.ResetColor();
+
         }
 
         private int LeerEntero(string mensaje)

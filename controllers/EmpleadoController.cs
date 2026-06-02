@@ -41,6 +41,11 @@ namespace Proyecto_Roticeria.controllers
         //datos cocinero
         public bool AgregarCocinero(string nombre, string apellido, int dni, DateTime fechaIngreso, string turno, double salario, string especialidad)
         {
+            if (ExisteEmpleado(dni))
+            {
+                return false;
+            }
+
             if (!ValidarDatosBasicos(nombre, apellido, dni, turno, salario))
             {
                 return false;

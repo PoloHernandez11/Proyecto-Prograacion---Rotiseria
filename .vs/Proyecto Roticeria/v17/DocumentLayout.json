@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\views\\menuview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\views\\pedidoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:views\\pedidoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|d:\\facu\\segundo a\u00F1o t.d.s\\programaci\u00F3n ii\\tp programacion\\proyecto-prograacion---rotiseria\\views\\menuview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:views\\menuview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +19,7 @@
       "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|d:\\facu\\segundo a\u00F1o t.d.s\\programaci\u00F3n ii\\tp programacion\\proyecto-prograacion---rotiseria\\datosiniciales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\datosiniciales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:datosiniciales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -75,10 +83,6 @@
       "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:views\\productoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|d:\\facu\\segundo a\u00F1o t.d.s\\programaci\u00F3n ii\\tp programacion\\proyecto-prograacion---rotiseria\\views\\pedidoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:views\\pedidoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\views\\despachoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:views\\despachoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -101,10 +105,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\controllers\\despachocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:controllers\\despachocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8DE999C-3084-4324-9D10-98E251F3FCAE}|Proyecto Roticeria.csproj|solutionrelative:controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -118,46 +118,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DatosIniciales.cs",
-              "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\DatosIniciales.cs",
-              "RelativeDocumentMoniker": "DatosIniciales.cs",
-              "ToolTip": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\DatosIniciales.cs",
-              "RelativeToolTip": "DatosIniciales.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T19:49:28.113Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Limpieza.cs",
-              "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\models\\Limpieza.cs",
-              "RelativeDocumentMoniker": "models\\Limpieza.cs",
-              "ToolTip": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\models\\Limpieza.cs",
-              "RelativeToolTip": "models\\Limpieza.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T22:11:23.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Pedido.cs",
-              "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\models\\Pedido.cs",
-              "RelativeDocumentMoniker": "models\\Pedido.cs",
-              "ToolTip": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\models\\Pedido.cs",
-              "RelativeToolTip": "models\\Pedido.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAA4wCkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T22:11:36.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Persona.cs",
               "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\models\\Persona.cs",
               "RelativeDocumentMoniker": "models\\Persona.cs",
@@ -165,12 +126,11 @@
               "RelativeToolTip": "models\\Persona.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T22:12:06.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-30T22:12:06.119Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Producto.cs",
               "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\models\\Producto.cs",
               "RelativeDocumentMoniker": "models\\Producto.cs",
@@ -178,12 +138,11 @@
               "RelativeToolTip": "models\\Producto.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAwwEcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T22:12:35.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-30T22:12:35.824Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Empleado.cs",
               "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\models\\Empleado.cs",
               "RelativeDocumentMoniker": "models\\Empleado.cs",
@@ -191,12 +150,11 @@
               "RelativeToolTip": "models\\Empleado.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T22:07:13.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-30T22:07:13.961Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Despacho.cs",
               "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\models\\Despacho.cs",
               "RelativeDocumentMoniker": "models\\Despacho.cs",
@@ -204,12 +162,11 @@
               "RelativeToolTip": "models\\Despacho.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T22:11:04.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-30T22:11:04.322Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Delivery.cs",
               "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\models\\Delivery.cs",
               "RelativeDocumentMoniker": "models\\Delivery.cs",
@@ -217,12 +174,11 @@
               "RelativeToolTip": "models\\Delivery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T22:10:49.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-30T22:10:49.212Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Cocinero.cs",
               "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\models\\Cocinero.cs",
               "RelativeDocumentMoniker": "models\\Cocinero.cs",
@@ -230,12 +186,11 @@
               "RelativeToolTip": "models\\Cocinero.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAWwB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T22:10:36.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-30T22:10:36.696Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Cliente.cs",
               "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\models\\Cliente.cs",
               "RelativeDocumentMoniker": "models\\Cliente.cs",
@@ -243,12 +198,11 @@
               "RelativeToolTip": "models\\Cliente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T22:10:16.822Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-30T22:10:16.822Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -256,12 +210,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwCQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T23:29:08.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-30T23:29:08.87Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MenuView.cs",
               "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\views\\MenuView.cs",
               "RelativeDocumentMoniker": "views\\MenuView.cs",
@@ -274,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Proyecto.cs",
               "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\models\\Proyecto.cs",
               "RelativeDocumentMoniker": "models\\Proyecto.cs",
@@ -282,12 +235,73 @@
               "RelativeToolTip": "models\\Proyecto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T22:13:07.042Z",
+              "WhenOpened": "2026-05-30T22:13:07.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedidoView.cs",
+              "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\views\\PedidoView.cs",
+              "RelativeDocumentMoniker": "views\\PedidoView.cs",
+              "ToolTip": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\views\\PedidoView.cs",
+              "RelativeToolTip": "views\\PedidoView.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAiwNAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T04:00:23.86Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 0,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "controllers\\EmpleadoController.cs",
+              "ToolTip": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "controllers\\EmpleadoController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAEwDYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T21:40:40.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\models\\Pedido.cs",
+              "RelativeDocumentMoniker": "models\\Pedido.cs",
+              "ToolTip": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\models\\Pedido.cs",
+              "RelativeToolTip": "models\\Pedido.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA4wCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T22:11:36.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Limpieza.cs",
+              "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\models\\Limpieza.cs",
+              "RelativeDocumentMoniker": "models\\Limpieza.cs",
+              "ToolTip": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\models\\Limpieza.cs",
+              "RelativeToolTip": "models\\Limpieza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T22:11:23.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatosIniciales.cs",
+              "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\DatosIniciales.cs",
+              "RelativeDocumentMoniker": "DatosIniciales.cs",
+              "ToolTip": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\DatosIniciales.cs",
+              "RelativeToolTip": "DatosIniciales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T19:49:28.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Repartidor.cs",
               "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\models\\Repartidor.cs",
               "RelativeDocumentMoniker": "models\\Repartidor.cs",
@@ -295,12 +309,11 @@
               "RelativeToolTip": "models\\Repartidor.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAWwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T22:13:14.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-30T22:13:14.182Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Retiro.cs",
               "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\models\\Retiro.cs",
               "RelativeDocumentMoniker": "models\\Retiro.cs",
@@ -308,12 +321,11 @@
               "RelativeToolTip": "models\\Retiro.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T22:13:25.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-30T22:13:25.513Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "EstilosConsola.cs",
               "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\views\\EstilosConsola.cs",
               "RelativeDocumentMoniker": "views\\EstilosConsola.cs",
@@ -321,12 +333,11 @@
               "RelativeToolTip": "views\\EstilosConsola.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwAEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-31T04:48:08.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-31T04:48:08.619Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "ProductoView.cs",
               "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\views\\ProductoView.cs",
               "RelativeDocumentMoniker": "views\\ProductoView.cs",
@@ -334,25 +345,11 @@
               "RelativeToolTip": "views\\ProductoView.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACsBAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-31T04:00:06.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-31T04:00:06.844Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "PedidoView.cs",
-              "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\views\\PedidoView.cs",
-              "RelativeDocumentMoniker": "views\\PedidoView.cs",
-              "ToolTip": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\views\\PedidoView.cs",
-              "RelativeToolTip": "views\\PedidoView.cs",
-              "ViewState": "AgIAAM0AAAAAAAAAAAAqwOEAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-31T04:00:23.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "EmpleadoView.cs",
               "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\views\\EmpleadoView.cs",
               "RelativeDocumentMoniker": "views\\EmpleadoView.cs",
@@ -360,12 +357,11 @@
               "RelativeToolTip": "views\\EmpleadoView.cs",
               "ViewState": "AgIAADABAAAAAAAAAAAEwEEBAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-31T03:59:30.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-31T03:59:30.701Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "DespachoView.cs",
               "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\views\\DespachoView.cs",
               "RelativeDocumentMoniker": "views\\DespachoView.cs",
@@ -373,12 +369,11 @@
               "RelativeToolTip": "views\\DespachoView.cs",
               "ViewState": "AgIAABABAAAAAAAAAAAiwBYBAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-31T04:00:40.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-31T04:00:40.002Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "ClienteView.cs",
               "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\views\\ClienteView.cs",
               "RelativeDocumentMoniker": "views\\ClienteView.cs",
@@ -386,12 +381,11 @@
               "RelativeToolTip": "views\\ClienteView.cs",
               "ViewState": "AgIAAGYAAAAAAAAAAAAiwHkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-31T03:59:52.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-31T03:59:52.443Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "ProductoController.cs",
               "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\controllers\\ProductoController.cs",
               "RelativeDocumentMoniker": "controllers\\ProductoController.cs",
@@ -403,7 +397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "ClienteController.cs",
               "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "controllers\\ClienteController.cs",
@@ -415,7 +409,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "PedidoController.cs",
               "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\controllers\\PedidoController.cs",
               "RelativeDocumentMoniker": "controllers\\PedidoController.cs",
@@ -427,7 +421,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "DespachoController.cs",
               "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\controllers\\DespachoController.cs",
               "RelativeDocumentMoniker": "controllers\\DespachoController.cs",
@@ -436,18 +430,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAJsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-30T21:41:06.365Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "EmpleadoController.cs",
-              "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\controllers\\EmpleadoController.cs",
-              "RelativeDocumentMoniker": "controllers\\EmpleadoController.cs",
-              "ToolTip": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Tp programacion\\Proyecto-Prograacion---Rotiseria\\controllers\\EmpleadoController.cs",
-              "RelativeToolTip": "controllers\\EmpleadoController.cs",
-              "ViewState": "AgIAALMAAAAAAAAAAAAswOAAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T21:40:40.189Z"
             }
           ]
         }

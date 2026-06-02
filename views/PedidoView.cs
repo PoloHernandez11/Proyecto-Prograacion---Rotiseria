@@ -206,7 +206,7 @@ namespace Proyecto_Roticeria.views
                 return;
             }
 
-            pedido.ToString();
+            Console.WriteLine(pedido.ToString());
 
             Console.Write("Ingrese nombre exacto del producto a eliminar: ");
             string nombreProducto = Console.ReadLine();
